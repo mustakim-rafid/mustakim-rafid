@@ -16,11 +16,9 @@
 - 📚 University courses in **C, C++, Python** (algorithms/data structures focus)
 
 ---
-<div align="center">
+## 📊 My GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mustakim-rafid&theme=dark)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mustakim-rafid&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
